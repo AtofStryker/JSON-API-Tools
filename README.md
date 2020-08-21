@@ -1,5 +1,5 @@
 
-# JSON-API-Tools
+# JSON API Tools
 A monorepo to house various tools to interact with json:api. This package contains 4 main components
 * HTTP Client
 * API Parser

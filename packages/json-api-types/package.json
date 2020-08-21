@@ -1,6 +1,6 @@
 {
   "name": "@atofstryker/json-api-types",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "shared typings for the store-tools monorepo",
   "main": "dist/index.js",
   "files": [
@@ -14,5 +14,5 @@
   "engines": {
     "node": ">= 12.0.0"
   },
-  "gitHead": "e03a54e41cf04cc1b79514c5045a28cd6c5a09a0"
+  "gitHead": "5b3197609f787f876ff3251c6a31af695bcd97d4"
 }
