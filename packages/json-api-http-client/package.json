@@ -1,6 +1,6 @@
 {
   "name": "@atofstryker/json-api-http-client",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "An http client used to make requests",
   "main": "dist/index.js",
   "files": [
@@ -25,5 +25,5 @@
     "axios": "^0.19.0",
     "axios-mock-adapter": "^1.18.1"
   },
-  "gitHead": "e03a54e41cf04cc1b79514c5045a28cd6c5a09a0"
+  "gitHead": "5b3197609f787f876ff3251c6a31af695bcd97d4"
 }
