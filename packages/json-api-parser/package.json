@@ -1,6 +1,6 @@
 {
   "name": "@atofstryker/json-api-parser",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "a json api parser that moves resouroce from camel case to kebab case and vice versa",
   "main": "dist/index.js",
   "files": [
@@ -16,7 +16,7 @@
     "node": ">= 12.0.0"
   },
   "dependencies": {
-    "@atofstryker/json-api-types": "^0.2.0",
+    "@atofstryker/json-api-types": "^0.3.0",
     "lodash": "^4.0.0"
   },
   "devDependencies": {

@@ -1,6 +1,6 @@
 {
   "name": "@atofstryker/json-api-client",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "a api client, containg client used to interact with a json api endpoint and parse results",
   "main": "dist/index.js",
   "files": [
@@ -16,9 +16,9 @@
     "node": ">= 12.0.0"
   },
   "dependencies": {
-    "@atofstryker/json-api-http-client": "^0.2.0",
-    "@atofstryker/json-api-parser": "^0.2.0",
-    "@atofstryker/json-api-types": "^0.2.0",
+    "@atofstryker/json-api-http-client": "^0.3.0",
+    "@atofstryker/json-api-parser": "^0.3.0",
+    "@atofstryker/json-api-types": "^0.3.0",
     "lodash": "^4.0.0"
   },
   "devDependencies": {
